@@ -40,7 +40,7 @@ async function getJson() {
 
       div.innerHTML = "Grabbed The JSON code Check The Console"; //DISPLAY CONTENT HERE
       mainContainer.appendChild(div);
-      console.log("ITS WORKING");
+      console.log("CODE WORKING");
       console.log(myJSON);
     })
     .catch(function () {
